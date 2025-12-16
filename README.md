@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=orions-wolf.orions-wolf">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vm1008079-web.vm1008079-web">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -47,33 +47,23 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Ir a la Fuente">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=TU_NOMBRE_DE_USUARIO_GITHUB&theme=react&border=61dafb&hide_border=true" alt="Orion's Wolf" />
+    <!-- ESTADÍSTICAS EN HORIZONTAL - DOS COLUMNAS -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Estadísticas de GitHub">
+      <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=vm1008079-web&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Ir a la Fuente">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO_GITHUB&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO_GITHUB&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Lenguajes más usados">
+      <img align="right" width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vm1008079-web&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_NOMBRE_DE_USUARIO_GITHUB&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <br><br><br><br><br><br><br><br><br><br>
+  <!-- GRÁFICA DE ACTIVIDAD DEBALO -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vm1008079-web&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
 </p>
 
 <hr>
 
 <h2 align="center">👨‍💻 Repositorios Destacados 👨‍💻</h2>
 <br>
-<!--
-    CAMBIA ESTOS ENLACES POR TUS 4-6 REPOSITORIOS MÁS IMPORTANTES.
-    Si no tienes repositorios públicos aún, puedes eliminar esta sección completa
-    o dejar un mensaje como el de abajo.
--->
 <div width="100%" align="center">
   <p align="center">
     🚀 <em>Proyectos en desarrollo... ¡Pronto estarán aquí!</em> 🚀
@@ -81,16 +71,8 @@
     Mientras tanto, estoy enfocado en mis estudios y en proyectos prácticos de desarrollo web y bots.
   </p>
 </div>
-<!--
-  EJEMPLO DE CÓMO SE VERÍA CON REPOSITORIOS (reemplaza con tus datos):
-  <div width="100%" align="center">
-    <a align="left" href="https://github.com/TU_USER/Mi-Proyecto-Web" title="Proyecto Web"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USER&repo=Mi-Proyecto-Web&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/TU_USER/Bot-WhatsApp" title="Bot WhatsApp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USER&repo=Bot-WhatsApp&theme=react&border_color=61dafb&border_radius=10"></a>
-  </div>
--->
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <!-- Este enlace llevará a tu página de repositorios de GitHub -->
-  <a href="https://github.com/TU_NOMBRE_DE_USUARIO_GITHUB?tab=repositories" title="Mostrar más repositorios">🔎 Explorar Mi Trabajo 🔍</a>
+  <a href="https://github.com/vm1008079-web?tab=repositories" title="Mostrar más repositorios">🔎 Explorar Mi Trabajo 🔍</a>
 </h4>
