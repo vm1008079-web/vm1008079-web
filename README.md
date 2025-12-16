@@ -48,7 +48,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/vm1008079-web/github-readme-streak-stats" title="Ir a la Fuente">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=TU_NOMBRE_DE_USUARIO_GITHUB&theme=react&border=61dafb&hide_border=true" alt="Orion's Wolf" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=vm1008079-web&theme=react&border=61dafb&hide_border=true" alt="Orion's Wolf" />
     </a>
     <a href="https://github.com/vm1008079-web/github-readme-stats" title="Ir a la Fuente">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=vm1008079-web&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
