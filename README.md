@@ -61,26 +61,10 @@
 </p>
 
 <hr>
-
-<h2 align="center">👨‍💻 Repositorios Destacados 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositorios 👨‍💻</h2>
 <br>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-<!-- Asta_bot Card -->
-<div style="display: flex; align-items: center; gap: 10px; border: 1px solid #30363d; border-radius: 8px; padding: 10px 15px; background: #0d1117; min-width: 300px;">
-  <div style="font-size: 24px;">🤖</div>
-  <div style="flex-grow: 1;">
-    <h4 style="margin: 0; color: #58a6ff;">
-      <a href="https://github.com/Fer280809/Asta_bot" style="text-decoration: none; color: inherit;">
-        Asta_bot
-      </a>
-    </h4>
-    <p style="margin: 5px 0 0 0; font-size: 12px; color: #8b949e;">
-      Bot de whatsap con las mejores funciones y de codigo abierto.
-    </p>
-  </div>
-  <div style="font-size: 10px; background: #238636; color: white; padding: 2px 8px; border-radius: 10px;">
-    Node.js
-  </div>
+<div width="100%" align="center">
+  <a href="https://github.com/Fer280809/Asta_bot" title="Asta_bot">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Fer280809&repo=Asta_bot&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
