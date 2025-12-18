@@ -64,14 +64,18 @@
 
 <h2 align="center">👨‍💻 Repositorios Destacados 👨‍💻</h2>
 <br>
+
 <div width="100%" align="center">
-  <p align="center">
-    🚀 <em>Proyectos en desarrollo... ¡Pronto estarán aquí!</em> 🚀
-    <br>
-    Mientras tanto, estoy enfocado en mis estudios y en proyectos prácticos de desarrollo web y bots.
-  </p>
+
+### 🚀 Asta_bot
+**Bot multifuncional de Discord con sistema de economía, moderación y entretenimiento.**
+
+[![Vista previa de Asta_bot](https://raw.githubusercontent.com/Fer280809/Asta_bot/main/assets/preview.png)](https://github.com/Fer280809/Asta_bot)
+
+*Tecnologías: Nodejs, Baleyjs, JavaScript*
+
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/vm1008079-web?tab=repositories" title="Mostrar más repositorios">🔎 Explorar Mi Trabajo 🔍</a>
