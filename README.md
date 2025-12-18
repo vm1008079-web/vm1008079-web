@@ -70,7 +70,7 @@
 ### 🚀 Asta_bot
 **Bot multifuncional de Discord con sistema de economía, moderación y entretenimiento.**
 
-[![Vista previa de Asta_bot](https://raw.githubusercontent.com/Fer280809/Asta_bot/main/assets/preview.png)](https://github.com/Fer280809/Asta_bot)
+[![Vista previa de Asta_bot](https://github.com/Fer280809/Asta_bot/blob/main/lib/catalogo.jpg)](https://github.com/Fer280809/Asta_bot)
 
 *Tecnologías: Nodejs, Baleyjs, JavaScript*
 
