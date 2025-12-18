@@ -65,18 +65,22 @@
 <h2 align="center">👨‍💻 Repositorios Destacados 👨‍💻</h2>
 <br>
 
-<div width="100%" align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-### 🚀 Asta_bot
-**Bot multifuncional de Discord con sistema de economía, moderación y entretenimiento.**
-
-[![Vista previa de Asta_bot](https://github.com/Fer280809/Asta_bot/blob/main/lib/catalogo.jpg)](https://github.com/Fer280809/Asta_bot)
-
-*Tecnologías: Nodejs, Baleyjs, JavaScript*
-
+<!-- Asta_bot Card -->
+<div style="display: flex; align-items: center; gap: 10px; border: 1px solid #30363d; border-radius: 8px; padding: 10px 15px; background: #0d1117; min-width: 300px;">
+  <div style="font-size: 24px;">🤖</div>
+  <div style="flex-grow: 1;">
+    <h4 style="margin: 0; color: #58a6ff;">
+      <a href="https://github.com/Fer280809/Asta_bot" style="text-decoration: none; color: inherit;">
+        Asta_bot
+      </a>
+    </h4>
+    <p style="margin: 5px 0 0 0; font-size: 12px; color: #8b949e;">
+      Bot de whatsap con las mejores funciones y de codigo abierto.
+    </p>
+  </div>
+  <div style="font-size: 10px; background: #238636; color: white; padding: 2px 8px; border-radius: 10px;">
+    Node.js
+  </div>
 </div>
-<br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/vm1008079-web?tab=repositories" title="Mostrar más repositorios">🔎 Explorar Mi Trabajo 🔍</a>
-</h4>
